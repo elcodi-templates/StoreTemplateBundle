@@ -1,3 +1,5 @@
+> Hello! I am a deprecated package. I've been moved to elcodi-plugins/StoreTemplateBundle. Thanks :D
+
 # Custom templates for bamboo/elcodi
 In order to make a template fully compatible with Bamboo engine (The elcodi e-commerce implementation) we have created a small standard. Customizing this bundle you can create themes for bamboo/elcodi. Please read this documentation carefully before edit anything.
 
